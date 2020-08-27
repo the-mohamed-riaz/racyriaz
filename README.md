@@ -2,6 +2,8 @@
 <h3 align="left">Computer Visi👁n Aspirant</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=racyriaz" alt="racyriaz" /> </p>
+![image](/avatar6.png)
+Format: ![hello](url)
 
 - 🔭 I’m currently working on [Deep Learning with TensorFlow library](https://github.com/racyriaz/myPrograms/tree/master/supervise_learning_ANN_models)
 
