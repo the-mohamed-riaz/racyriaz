@@ -11,7 +11,6 @@ I am incredibly passionate about engineering, robotics and artificial intelligen
 
 <h4 align="center"> Hot topics of this day!</h4>
 
-<img src="https://github.com/racyriaz/racyriaz/blob/master/avatar%203.png" height="10" />
 <img align='right' src="https://github.com/racyriaz/racyriaz/blob/master/avatar%203.png" width="150" />
 
 - 🌱 I’m currently learning **Deep_Learning, Computer_vision**
