@@ -2,21 +2,20 @@
 
 ![](https://github.com/racyriaz/racyriaz/blob/master/placeholder.jpg?raw=true)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=racyriaz" alt="racyriaz" /> </p>
-
-- 🔭 I’m currently working on [Deep Learning with TensorFlow library](https://github.com/racyriaz/myPrograms/tree/master/supervise_learning_ANN_models)
+I graduated 🎓 from [**SMVEC**](https://smvec.ac.in/)
+I am incredibly passionate about engineering, robotics and artificial intelligence.I was completely obsessed with robotics after winning an incubation at [**IIM,BANGLORE -NSRCEL**](https://www.nsrcel.org/) through [**IICDC 2016**](https://innovate.mygov.in/india-innovation-challenge-design-contest), and now that I have discovered the field of machine learning and AI, I cannot wait to put my talents at work in developing new and amazing things. As of now, I am wandering(😂) with Jupyter Notebook, Python 3, NumPy, PyPlot and OpenCV for image classification, further I am learning linear regression, reinforcement learning, decision trees and random forests.
 
 - 🌱 I’m currently learning **Deep_Learning, Computer_vision**
 
-- 👯 I’m looking to collaborate on [Aqua_Tracking](https://github.com/racyriaz/aqua-tracking)
+- 👯 I’m looking to collaborate on [Aqua Tracking](https://github.com/racyriaz/aqua-tracking)
 
 - 🤝 I’m looking for help with [GUI programming with PyQt5](https://github.com/racyriaz/myPrograms/commit/f852aad18de9009d1d85588eb74edf5f1cf2a985)
 
 - 👨‍💻 All of my projects are available at [https://github.com/racyriaz](https://github.com/racyriaz)
 
-- 📝 I regulary write articles on [https://www.linkedin.com/in/mohamed-riaz/](https://www.linkedin.com/in/mohamed-riaz/)
+- 📝 I post my updates on [https://www.linkedin.com/in/mohamed-riaz/](https://www.linkedin.com/in/mohamed-riaz/)
 
-- 💬 Ask me about **Python, Arduino, Computer_vision, Machine_Learning**
+- 💬 Ask me about **Python, Arduino, Robotics, Computer_vision, Machine_Learning**
 
 - 📫 How to reach me **racyriaz@gmail.com**
 
