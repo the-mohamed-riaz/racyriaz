@@ -5,14 +5,14 @@
 I received my bachelors's degree (🎓) from [**SMVEC-Pondicherry University**](https://smvec.ac.in/)
 I am incredibly passionate about engineering, robotics and artificial intelligence. I was obsessed with robotics after winning an incubation at [**IIM, BANGLORE -NSRCEL**](https://www.nsrcel.org/) through [**IICDC 2016**](https://innovate.mygov.in/india-innovation-challenge-design-contest), and now that I have discovered the field of machine learning and AI, I cannot wait to put my talents at work in developing new and amazing things into Computer Vision and Neural Networks. So, I started self-learning on Jupyter Notebook, Python 3, NumPy, PyPlot and OpenCV for image classification, further I am learning linear regression, reinforcement learning, decision trees and random forests, bla bla bla(😂) to bring my computer vision neural network into a reality.
 
-<h2 align="right">Take a look at my resume</h2>
+<h2 align="center">Take a look at my resume</h2>
 
 ***Download my portfolio/resume*** [here](https://github.com/racyriaz/racyriaz/blob/master/ML_Resume_19_08_2020.pdf)
 
-<h3><img src="https://github.com/racyriaz/racyriaz/blob/master/avatar%203.png" height="10" /></h3>
-<img align='center' src="https://github.com/racyriaz/racyriaz/blob/master/avatar%203.png" width="150" />
-
 <h4 align="center"> Hot topics of this day!</h4>
+
+<img src="https://github.com/racyriaz/racyriaz/blob/master/avatar%203.png" height="10" />
+<img align='right' src="https://github.com/racyriaz/racyriaz/blob/master/avatar%203.png" width="150" />
 
 - 🌱 I’m currently learning **Deep_Learning, Computer_vision**
 
