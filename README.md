@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Riaz Mohamed Riaz</h1>
-<h3 align="center">Computer Visi👁n Aspirant</h3>
+<h1 align="center"> வணக்கம் | नमस्ते | سلام ( Hi ), I'm Riaz </h1>
+<h3 align="left">Computer Visi👁n Aspirant</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=racyriaz" alt="racyriaz" /> </p>
 
