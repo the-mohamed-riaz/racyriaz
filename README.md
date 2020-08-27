@@ -1,7 +1,7 @@
 <h1 align="center"> வணக்கம் | नमस्ते | سلام ( Hi ), I'm Riaz </h1>
 <h3 align="left">Computer Visi👁n Aspirant</h3>
 
-![hello](https://github.com/racyriaz/racyriaz/blob/master/avatar%6.png?raw=true)
+![hello](https://github.com/racyriaz/racyriaz/blob/master/1.png?raw=true)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=racyriaz" alt="racyriaz" /> </p>
 
