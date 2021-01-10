@@ -1,42 +1,27 @@
 <h1 align="center"> வணக்கம் | नमस्ते | سلام ( Hi ) </h1>
 
-![](https://github.com/racyriaz/racyriaz/blob/master/placeholder.jpg?raw=true)
+![](./github_cover_page.jpg)
+<p style='text-align:justify; text-justify: inter-word'>
+Currently, doing my Full Stack & ML dev internship at <a href="https://www.pikkal.com/">Pikkal & Co</a>. I received my bachelors's degree (🎓) from <a href="https://smvec.ac.in/">SMVEC</a>. I am obsessed with <b>web development</b> I use Django with <b>Django-Rest framework</b> to build my backend api's and <b>ReactJS</b> for my front-end. I was fortunate enough to take up an incubation at <a href="https://www.nsrcel.org/">IIM, BANGLORE - NSRCEL</a> through <a href="https://innovate.mygov.in/india-innovation-challenge-design-contest">IICDC 2016</a>., and now that I have discovered the field of machine learning and AI, I cannot wait to put my talents at work in developing new and crays ideas to work.</p>
 
-I received my bachelors's degree (🎓) from [**SMVEC-Pondicherry University**](https://smvec.ac.in/)
-I am incredibly passionate about engineering, robotics and artificial intelligence. I was obsessed with robotics after winning an incubation at [**IIM, BANGLORE -NSRCEL**](https://www.nsrcel.org/) through [**IICDC 2016**](https://innovate.mygov.in/india-innovation-challenge-design-contest), and now that I have discovered the field of machine learning and AI, I cannot wait to put my talents at work in developing new and amazing things into Computer Vision and Neural Networks. So, I started self-learning on Jupyter Notebook, Python 3, NumPy, PyPlot and OpenCV for image classification, further I am learning linear regression, reinforcement learning, decision trees and random forests, bla bla bla(😂) to bring my computer vision neural network into a reality.
+<hr />
 
-
-<p align="center">
-<a href="https://twitter.com/@racyriaz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@racyriaz" height="10" width="10" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-riaz/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/mohamed-riaz/" height="10" width="10" /></a>
-<a href="https://stackoverflow.com/users/user:13266258" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="user:13266258" height="10" width="10" /></a>
-<a href="https://fb.com/https://facebook.com/racyriaz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://facebook.com/racyriaz" height="10" width="10" /></a>
-<a href="https://instagram.com/https://instagram.com/racyriaz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://instagram.com/racyriaz" height="10" width="10" /></a>
+<p align=center>
+<a href="https://twitter.com/@racyriaz" target="blank"><img style="margin:5px 20px;" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@racyriaz" height="25" width="25" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-riaz/" target="blank"><img style="margin:5px 20px;" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/mohamed-riaz/" height="25" width="25" /></a>
+<a href="https://stackoverflow.com/users/user:13266258" target="blank"><img align="center" style="margin:5px 20px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="user:13266258" height="25" width="25" /></a>
+<a href="https://fb.com/https://facebook.com/racyriaz" target="blank"><img align="center" style="margin:5px 20px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://facebook.com/racyriaz" height="25" width="25" /></a>
+<a href="https://instagram.com/https://instagram.com/racyriaz" target="blank"><img align="center" style="margin:5px 20px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://instagram.com/racyriaz" height="25" width="25" /></a>
 </p>
 
-<h2 align="center">Take a look at my resume</h2>
+<hr>
+<img style='position:relative; width:200px; height:auto; right:0px ' src="https://github.com/racyriaz/racyriaz/blob/master/avatar%203.png"/>
 
-***Download my portfolio/resume*** [here](https://github.com/racyriaz/racyriaz/blob/master/ML_Resume_19_08_2020.pdf)
-
-<h3 align="center"> Hot topics of this day!</h3>
-
-<img align='right' src="https://github.com/racyriaz/racyriaz/blob/master/avatar%203.png" width="150" />
-
-- 🌱 I’m currently learning **Deep_Learning, Computer_vision**
-
-- 👯 I’d love to collaborate on [Aqua Tracking](https://github.com/racyriaz/aqua-tracking)
-
-- 🤝 I’m looking for help on [GUI programming with PyQt5](https://github.com/racyriaz/myPrograms/commit/f852aad18de9009d1d85588eb74edf5f1cf2a985)
-
-- 👨‍💻 All of my projects are available at [my_Github_repo](https://github.com/racyriaz)
-
-- 📝 I post my updates on [LinkedIn](https://www.linkedin.com/in/mohamed-riaz/)
-
-- 💬 Ask me about **Python, Arduino, Robotics, Computer_vision, Machine_Learning, Designing with Illustrator | Photoshop | CorelDraw**
-
-- 📫 How to reach me **racyriaz@gmail.com**
-
-- ⚡ Fun fact **Winner Winner Coffee Dinner**!
+## 💬 **Ask me about**
+  - Web-Development
+  - Python
+  - Computer_vision / Machine_Learning
+  - Designing with Illustrator | Photoshop | CorelDraw
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=racyriaz" alt="racyriaz" /> </p>
 
