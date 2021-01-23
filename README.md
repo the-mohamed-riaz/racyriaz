@@ -31,6 +31,5 @@ Currently, doing my Full Stack & ML dev internship at <a href="https://www.pikka
 <hr />
 
 ## 😎 Wana know more ?
-<!-- <div align="center"> -->
-<button type="submit" style="border-radius:0.45rem; border:1px solid gray; padding:0.5rem 1.25rem; color:#EEE; background-color:#535353; cursor: pointer;">Download my resume</button></div>
+<a href="./mohamed_riaz_2021.pdf"><button type="submit" style="border-radius:0.45rem; border:1px solid gray; padding:0.5rem 1.25rem; color:#EEEEE1; background-color:#535353; cursor: pointer;">Download my resume</button></a>
 
