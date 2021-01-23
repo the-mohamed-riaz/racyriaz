@@ -13,7 +13,7 @@ Currently, doing my Full Stack & ML dev internship at <a href="https://www.pikka
   - ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp; ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
   - Machine Learning, Data Science
   - Adobe Photoshop, Illustrator & Corel Draw
-  <img alt="Night Coding" src="https://giphy.com/gifs/Venturit-WTjXuYA2y4o3UZly3W" align="right"/>
+  <img alt="Night Coding" src="https://giphy.com/gifs/WTjXuYA2y4o3UZly3W/html5" align="right"/>
 <hr />
 
 
