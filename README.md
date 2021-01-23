@@ -5,10 +5,10 @@
 Currently, doing my Full Stack & ML dev internship at <a href="https://www.pikkal.com/">Pikkal & Co</a>. I received my bachelors's degree (🎓) from <a href="https://smvec.ac.in/">SMVEC</a>. I am obsessed with <b>web development</b> and <b>data science</b>. I use Django with <b>Django-Rest framework</b> to build my backend api's and <b>ReactJS</b> for my front-end. I was fortunate enough to take up an incubation at <a href="https://www.nsrcel.org/">IIM, BANGLORE - NSRCEL</a> through <a href="https://innovate.mygov.in/india-innovation-challenge-design-contest">IICDC 2016</a>., and now that I have discovered the field of machine learning and AI, I cannot wait to put my talents at work in developing new and crays ideas to work.</p>
 <hr />
 
-[![Twitter](https://img.shields.io/twitter/url?label=Tweet&style=social&url=%40racyriaz)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Ftwitter.com%2F)
-[![Twitter](https://img.shields.io/twitter/url?label=Connect&logo=LinkedIn&style=social&url=%2Fmohamed-riaz%2F)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fwww.linkedin.com%2Fin)
-[![Twitter](https://img.shields.io/twitter/url?label=StackOver%20Flow&logo=stack%20overflow&style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fstackoverflow.com%2Fusers%2Fuser%3A13266258)
-[![Twitter](https://img.shields.io/twitter/url?label=Follow&logo=instagram&style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Finstagram.com%2Fhttps%3A%2F%2Finstagram.com%2Fracyriaz)
+![Twitter URL](https://img.shields.io/twitter/url?label=Tweet&style=social&url=https%3A%2F%2Ftwitter.com%2F%40racyriaz)
+![Twitter URL](https://img.shields.io/twitter/url?label=Connect&logo=LinkedIn&style=social&url=%2Fmohamed-riaz%2F)
+[![Twitter URL](https://img.shields.io/twitter/url?label=StackOver%20Flow&logo=stack%20overflow&style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fstackoverflow.com%2Fusers%2Fuser%3A13266258)
+[![Twitter URL](https://img.shields.io/twitter/url?label=Follow&logo=instagram&style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Finstagram.com%2Fhttps%3A%2F%2Finstagram.com%2Fracyriaz)
 
 <hr />
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=racyriaz" alt="racyriaz" /> </p>
