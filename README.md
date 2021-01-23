@@ -9,17 +9,17 @@ Currently, doing my Full Stack & ML dev internship at <a href="https://www.pikka
 
 
 <p align=center>
-<a href="https://twitter.com/@racyriaz" ><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@racyriaz" height="25" width="25" /></a>&nbsp;&nbsp;
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-riaz/" ><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/mohamed-riaz/" height="25" width="25" /></a>&nbsp;&nbsp;
-<a href="https://stackoverflow.com/users/user:13266258" ><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="user:13266258" height="25" width="25" /></a>&nbsp;&nbsp;
-<a href="https://fb.com/https://facebook.com/racyriaz" ><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://facebook.com/racyriaz" height="25" width="25" /></a>&nbsp;&nbsp;
-<a href="https://instagram.com/https://instagram.com/racyriaz" ><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://instagram.com/racyriaz" height="25" width="25" /></a>&nbsp;&nbsp;
+<a href="https://twitter.com/@racyriaz" ><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@racyriaz" height="25" width="25" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-riaz/" ><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/mohamed-riaz/" height="25" width="25" /></a>
+<a href="https://stackoverflow.com/users/user:13266258" ><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="user:13266258" height="25" width="25" /></a>
+<a href="https://fb.com/https://facebook.com/racyriaz" ><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://facebook.com/racyriaz" height="25" width="25" /></a>
+<a href="https://instagram.com/https://instagram.com/racyriaz" ><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://instagram.com/racyriaz" height="25" width="25" /></a>
 </p>
 
 <hr />
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=racyriaz" alt="racyriaz" /> </p>
 
-## 💬 **Ask me about**
+## 💬&nbsp; **Ask me about**
   - ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp; ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp; ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp; ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
   - ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp; ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
   - ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp; ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
@@ -27,7 +27,7 @@ Currently, doing my Full Stack & ML dev internship at <a href="https://www.pikka
   - Adobe Photoshop, Illustrator & Corel Draw
 <hr />
 
-## 😎 Wana know more ? Download my portfolio [here](./mohamed_riaz_2021.pdf)
+## 😎&nbsp; Wana know more ? Download my portfolio [here](./mohamed_riaz_2021.pdf)
 <hr />
 
 <p align="center">
