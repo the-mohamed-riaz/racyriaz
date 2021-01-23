@@ -15,8 +15,6 @@ Currently, doing my Full Stack & ML dev internship at <a href="https://www.pikka
 <hr />
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=racyriaz" alt="racyriaz" /> </p>
 
-![](./)
-
 ## 💬 **Ask me about**
   - HTML5, CSS3, JavaScript, Django, ReactJS, BootStrap
   - Python
@@ -27,7 +25,7 @@ Currently, doing my Full Stack & ML dev internship at <a href="https://www.pikka
 <div style="display: flex; flex-direction: row; justify-content: space-evenly;">
 <div style="flex: 50%;">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=racyriaz&show_icons=true" alt="Riaz's ratings" /></div>
 <div style="flex: 50%;"><img align="right" style="width:60%; height:auto;" src="./eyes%20closed%20blue%20t.png" alt="smiling emoji of riaz"></img></div>
-</div>
+</div><br>
 <hr />
 
 ## 😎 Wana know more ?
