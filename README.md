@@ -22,8 +22,7 @@ Currently, doing my Full Stack & ML dev internship at <a href="https://www.pikka
   - Adobe Illustrator or Photoshop and CorelDraw
 <hr />
 
-## 😎 Wana know more ?
-<a href="./mohamed_riaz_2021.pdf"><button type="submit" style="border-radius:0.45rem; border:1px solid gray; padding:0.5rem 1.25rem; color:#EEEEE1; background-color:#535353; cursor: pointer;">Download my resume</button></a>
+## 😎 Wana know more ? Download my portfolio [here](./mohamed_riaz_2021.pdf)
 
-<img align="left" style="width:50%" src="https://github-readme-stats.vercel.app/api?username=racyriaz&show_icons=true" alt="Riaz's ratings" />
-<img align="right" style="width:35%;" src="./eyes%20closed%20blue%20t.png" alt="smiling emoji of riaz" />
+<img align="left" width="50%" height="auto" src="https://github-readme-stats.vercel.app/api?username=racyriaz&show_icons=true" alt="Riaz's ratings" />
+<img align="right" width="50%" height="auto" src="./eyes%20closed%20blue%20t.png" alt="smiling emoji of riaz" />
