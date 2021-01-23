@@ -8,8 +8,6 @@ Currently, doing my Full Stack & ML dev internship at <a href="https://www.pikka
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=racyriaz" alt="racyriaz" /> </p>
 
 ## 💬&nbsp; **Ask me about**
-  <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" style="width:6em;"/>
-
   - ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp; ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp; ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp; ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
   - ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp; ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
   - ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp; ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
@@ -31,6 +29,7 @@ Currently, doing my Full Stack & ML dev internship at <a href="https://www.pikka
 </p>
 <hr />
 
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" />
  * ![Twitter URL](https://img.shields.io/twitter/url?label=Tweet&style=social&url=https%3A%2F%2Ftwitter.com%2F%40racyriaz)&nbsp;
  * ![Twitter URL](https://img.shields.io/twitter/url?label=Stack%20Overflow&logo=stack%20overflow&style=social&url=https%3A%2F%2Fstackoverflow.com%2Fusers%2Fuser%3A13266258)&nbsp;
  * ![Twitter URL](https://img.shields.io/twitter/url?label=Connect&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmohamed-riaz)&nbsp;
