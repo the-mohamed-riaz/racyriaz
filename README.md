@@ -6,11 +6,11 @@ Currently, doing my Full Stack & ML dev internship at <a href="https://www.pikka
 <hr />
 
 <p align=center>
-<a href="https://twitter.com/@racyriaz" target="blank"><img style="margin:5px 20px;" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@racyriaz" height="25" width="25" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-riaz/" target="blank"><img style="margin:5px 20px;" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/mohamed-riaz/" height="25" width="25" /></a>
-<a href="https://stackoverflow.com/users/user:13266258" target="blank"><img align="center" style="margin:5px 20px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="user:13266258" height="25" width="25" /></a>
-<a href="https://fb.com/https://facebook.com/racyriaz" target="blank"><img align="center" style="margin:5px 20px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://facebook.com/racyriaz" height="25" width="25" /></a>
-<a href="https://instagram.com/https://instagram.com/racyriaz" target="blank"><img align="center" style="margin:5px 20px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://instagram.com/racyriaz" height="25" width="25" /></a>
+<a href="https://twitter.com/@racyriaz" target="blank"><img style="margin:5px 30px;" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@racyriaz" height="25" width="25" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-riaz/" target="blank"><img style="margin:5px 30px;" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/mohamed-riaz/" height="25" width="25" /></a>
+<a href="https://stackoverflow.com/users/user:13266258" target="blank"><img align="center" style="margin:5px 30px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="user:13266258" height="25" width="25" /></a>
+<a href="https://fb.com/https://facebook.com/racyriaz" target="blank"><img align="center" style="margin:5px 30px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://facebook.com/racyriaz" height="25" width="25" /></a>
+<a href="https://instagram.com/https://instagram.com/racyriaz" target="blank"><img align="center" style="margin:5px 30px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://instagram.com/racyriaz" height="25" width="25" /></a>
 </p>
 <hr />
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=racyriaz" alt="racyriaz" /> </p>
@@ -22,10 +22,8 @@ Currently, doing my Full Stack & ML dev internship at <a href="https://www.pikka
   - Adobe Illustrator or Photoshop and CorelDraw
 <hr />
 
-<div style="display:flex; flex-direction:row;">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=racyriaz&show_icons=true" alt="Riaz's ratings" />
-<img align="right" style="width:auto; height:35%;" src="./eyes%20closed%20blue%20t.png" alt="smiling emoji of riaz" /></div>
-<hr />
-
 ## 😎 Wana know more ?
 <a href="./mohamed_riaz_2021.pdf"><button type="submit" style="border-radius:0.45rem; border:1px solid gray; padding:0.5rem 1.25rem; color:#EEEEE1; background-color:#535353; cursor: pointer;">Download my resume</button></a>
+
+<img align="left" style="width:50%" src="https://github-readme-stats.vercel.app/api?username=racyriaz&show_icons=true" alt="Riaz's ratings" />
+<img align="right" style="width:35%;" src="./eyes%20closed%20blue%20t.png" alt="smiling emoji of riaz" />
