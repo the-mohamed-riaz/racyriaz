@@ -5,7 +5,7 @@
 Currently, doing my Full Stack & ML dev internship at <a href="https://www.pikkal.com/">Pikkal & Co</a>. I received my bachelors's degree (🎓) from <a href="https://smvec.ac.in/">SMVEC</a>. I am obsessed with <b>web development</b> and <b>data science</b>. I use Django with <b>Django-Rest framework</b> to build my backend api's and <b>ReactJS</b> for my front-end. I was fortunate enough to take up an incubation at <a href="https://www.nsrcel.org/">IIM, BANGLORE - NSRCEL</a> through <a href="https://innovate.mygov.in/india-innovation-challenge-design-contest">IICDC 2016</a>., and now that I have discovered the field of machine learning and AI, I cannot wait to put my talents at work in developing new and crays ideas to work.</p>
 <hr />
 
-<table>
+<table style="background-color:white; color:white;">
   <tr><a style="background-color:white; color:white; text-align:center; margin:0.5rem 2rem; padding:0 10px;" href="https://twitter.com/@racyriaz" target="blank"><img style="margin:5px 30px;" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@racyriaz" height="25" width="25" /></a></tr>
   <tr></tr>
   <tr><a style="margin:0.5rem 2rem; padding:0 10px;" href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-riaz/" target="blank"><img style="margin:5px 30px;" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/mohamed-riaz/" height="25" width="25" /></a></tr>
