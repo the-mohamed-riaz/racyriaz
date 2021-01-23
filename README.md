@@ -7,8 +7,6 @@ Currently, doing my Full Stack & ML dev internship at <a href="https://www.pikka
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/racyriaz?label=tweet%20with%20me&style=social)&nbsp;
 
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="mohamed-riaz"><a class="LI-simple-link" href='https://in.linkedin.com/in/mohamed-riaz?trk=profile-badge'>Mohamed Riaz</a></div>
 
 <table style="background-color:white; color:white;">
   <tr><a style="background-color:white; color:white; text-align:center; margin:0.5rem 2rem; padding:0 10px;" href="https://twitter.com/@racyriaz" target="blank"><img style="margin:5px 30px;" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@racyriaz" height="25" width="25" /></a></tr>
@@ -40,3 +38,9 @@ Currently, doing my Full Stack & ML dev internship at <a href="https://www.pikka
   <img style="display:flex;" width="25%" height="auto" src="./eyes%20closed%20blue%20t.png" alt="smiling emoji of riaz" />
 </div>
 
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
