@@ -23,8 +23,8 @@ Currently, doing my Full Stack & ML dev internship at <a href="https://www.pikka
 <hr />
 
 <div style="display: flex; flex-direction: row;">
-<div style="width:50%;">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=racyriaz&show_icons=true" alt="Riaz's ratings" /></div>
-<div style="width:50%;"><img align="right" style="width:auto; height:45%;" src="./eyes%20closed%20blue%20t.png" alt="smiling emoji of riaz"></img></div>
+  <div>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=racyriaz&show_icons=true" alt="Riaz's ratings" /></div>
+  <div><img align="right" style="width:auto; height:45%;" src="./eyes%20closed%20blue%20t.png" alt="smiling emoji of riaz"></img></div>
 </div><br>
 <hr />
 
