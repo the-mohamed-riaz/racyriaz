@@ -9,11 +9,11 @@ Currently, doing my Full Stack & ML dev internship at <a href="https://www.pikka
 
 
 <p align=center>
-<a href="https://twitter.com/@racyriaz" ><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@racyriaz" height="25" width="25" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-riaz/" ><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/mohamed-riaz/" height="25" width="25" /></a>
-<a href="https://stackoverflow.com/users/user:13266258" ><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="user:13266258" height="25" width="25" /></a>
-<a href="https://fb.com/https://facebook.com/racyriaz" ><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://facebook.com/racyriaz" height="25" width="25" /></a>
-<a href="https://instagram.com/https://instagram.com/racyriaz" ><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://instagram.com/racyriaz" height="25" width="25" /></a>
+<a href="https://twitter.com/@racyriaz" ><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@racyriaz" height="25" width="25" /></a>&nbsp;
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-riaz/" ><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/mohamed-riaz/" height="25" width="25" /></a>&nbsp;
+<a href="https://stackoverflow.com/users/user:13266258" ><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="user:13266258" height="25" width="25" /></a>&nbsp;
+<a href="https://fb.com/https://facebook.com/racyriaz" ><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://facebook.com/racyriaz" height="25" width="25" /></a>&nbsp;
+<a href="https://instagram.com/https://instagram.com/racyriaz" ><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://instagram.com/racyriaz" height="25" width="25" /></a>&nbsp;
 </p>
 
 <hr />
