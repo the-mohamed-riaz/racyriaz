@@ -8,17 +8,13 @@ Currently, doing my Full Stack & ML dev internship at <a href="https://www.pikka
 ![Twitter Follow](https://img.shields.io/twitter/follow/racyriaz?label=tweet%20with%20me&style=social)&nbsp;
 
 
-<table style="background-color:white; color:white;">
-  <tr><a style="background-color:white; color:white; text-align:center; margin:0.5rem 2rem; padding:0 10px;" href="https://twitter.com/@racyriaz" target="blank"><img style="margin:5px 30px;" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@racyriaz" height="25" width="25" /></a></tr>
-  <tr></tr>
-  <tr><a style="margin:0.5rem 2rem; padding:0 10px;" href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-riaz/" target="blank"><img style="margin:5px 30px;" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/mohamed-riaz/" height="25" width="25" /></a></tr>
-  <tr></tr>
-  <tr><a style="margin:0.5rem 2rem; padding:0 10px;" href="https://stackoverflow.com/users/user:13266258" target="blank"><img align="center" style="margin:5px 30px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="user:13266258" height="25" width="25" /></a></tr>
-  <tr></tr>
-  <tr><a style="margin:0.5rem 2rem; padding:0 10px;" href="https://fb.com/https://facebook.com/racyriaz" target="blank"><img align="center" style="margin:5px 30px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://facebook.com/racyriaz" height="25" width="25" /></a></tr>
-  <tr></tr>
-  <tr><a style="margin:0.5rem 2rem; padding:0 10px;" href="https://instagram.com/https://instagram.com/racyriaz" target="blank"><img align="center" style="margin:5px 30px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://instagram.com/racyriaz" height="25" width="25" /></a></tr>
-</table>
+<p align=center>
+<a href="https://twitter.com/@racyriaz" ><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@racyriaz" height="25" width="25" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-riaz/" ><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/mohamed-riaz/" height="25" width="25" /></a>
+<a href="https://stackoverflow.com/users/user:13266258" ><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="user:13266258" height="25" width="25" /></a>
+<a href="https://fb.com/https://facebook.com/racyriaz" ><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://facebook.com/racyriaz" height="25" width="25" /></a>
+<a href="https://instagram.com/https://instagram.com/racyriaz" ><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://instagram.com/racyriaz" height="25" width="25" /></a>
+</p>
 
 <hr />
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=racyriaz" alt="racyriaz" /> </p>
@@ -37,7 +33,8 @@ Currently, doing my Full Stack & ML dev internship at <a href="https://www.pikka
 <p align="center">
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=racyriaz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=racyriaz&layout=compact&langs_count=8&theme=algolia"/>
   <img style="display:flex;" width="25%" height="auto" src="./eyes%20closed%20blue%20t.png" alt="smiling emoji of riaz" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=racyriaz&layout=compact&langs_count=8&theme=algolia"/>
+
 </a>
 </p>
