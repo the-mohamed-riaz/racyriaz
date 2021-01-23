@@ -5,16 +5,10 @@
 Currently, doing my Full Stack & ML dev internship at <a href="https://www.pikkal.com/">Pikkal & Co</a>. I received my bachelors's degree (🎓) from <a href="https://smvec.ac.in/">SMVEC</a>. I am obsessed with <b>web development</b> and <b>data science</b>. I use Django with <b>Django-Rest framework</b> to build my backend api's and <b>ReactJS</b> for my front-end. I was fortunate enough to take up an incubation at <a href="https://www.nsrcel.org/">IIM, BANGLORE - NSRCEL</a> through <a href="https://innovate.mygov.in/india-innovation-challenge-design-contest">IICDC 2016</a>., and now that I have discovered the field of machine learning and AI, I cannot wait to put my talents at work in developing new and crays ideas to work.</p>
 <hr />
 
-![Twitter Follow](https://img.shields.io/twitter/follow/racyriaz?label=tweet%20with%20me&style=social)&nbsp;
-
-
-<p align=center>
-<a href="https://twitter.com/@racyriaz" ><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@racyriaz" height="25" width="25" /></a>&nbsp;
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-riaz/" ><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/mohamed-riaz/" height="25" width="25" /></a>&nbsp;
-<a href="https://stackoverflow.com/users/user:13266258" ><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="user:13266258" height="25" width="25" /></a>&nbsp;
-<a href="https://fb.com/https://facebook.com/racyriaz" ><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://facebook.com/racyriaz" height="25" width="25" /></a>&nbsp;
-<a href="https://instagram.com/https://instagram.com/racyriaz" ><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://instagram.com/racyriaz" height="25" width="25" /></a>&nbsp;
-</p>
+[![Twitter](https://img.shields.io/twitter/url?label=Tweet&style=social&url=%40racyriaz)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Ftwitter.com%2F)
+[![Twitter](https://img.shields.io/twitter/url?label=Connect&logo=LinkedIn&style=social&url=%2Fmohamed-riaz%2F)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fwww.linkedin.com%2Fin)
+[![Twitter](https://img.shields.io/twitter/url?label=StackOver%20Flow&logo=stack%20overflow&style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fstackoverflow.com%2Fusers%2Fuser%3A13266258)
+[![Twitter](https://img.shields.io/twitter/url?label=Follow&logo=instagram&style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Finstagram.com%2Fhttps%3A%2F%2Finstagram.com%2Fracyriaz)
 
 <hr />
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=racyriaz" alt="racyriaz" /> </p>
