@@ -24,4 +24,13 @@ Currently, doing my Full Stack & ML dev internship at <a href="https://www.pikka
   - Adobe Illustrator or Photoshop and CorelDraw
 <hr />
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=racyriaz&show_icons=true" alt="Riaz's ratings" /></p>
+<div style="display: flex; flex-direction: row; justify-content: space-evenly;">
+  <div style="flex: 50%;">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=racyriaz&show_icons=true" alt="Riaz's ratings" /></div>
+  <div style="flex: 50%;"><img align="right" style="width:60%; height:auto;" src="./eyes%20closed%20blue%20t.png" alt="smiling emoji of riaz"></img></div>
+</div>
+<hr />
+
+## 😎 Wana know more ?
+<!-- <div align="center"> -->
+<button type="submit" style="border-radius:0.45rem; border:1px solid gray; padding:0.5rem 1.25rem; color:#EEE; background-color:#535353; cursor: pointer;">Download my resume</button></div>
+
