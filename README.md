@@ -24,7 +24,7 @@ Currently, doing my Full Stack & ML dev internship at <a href="https://www.pikka
 
 ## 😎 Wana know more ? Download my portfolio [here](./mohamed_riaz_2021.pdf)
 
-<div style="display:flex; flex-direction:row;  justify-content: center;">
+<div style="display:flex; flex-direction:row; justify-content:space-around;">
   <img style="display:flex;" width="50%" height="auto" src="https://github-readme-stats.vercel.app/api?username=racyriaz&show_icons=true" alt="Riaz's ratings" />
   <img style="display:flex;" width="25%" height="auto" src="./eyes%20closed%20blue%20t.png" alt="smiling emoji of riaz" />
 </div>
