@@ -2,7 +2,7 @@
 
 ![](./github_cover_page.jpg)
 <p style='text-align:justify; text-justify: inter-word'>
-Currently, doing my Full Stack & ML dev internship at <a href="https://www.pikkal.com/">Pikkal & Co</a>. I received my bachelors's degree (🎓) from <a href="https://smvec.ac.in/">SMVEC</a>. I am obsessed with <b>web development</b> and <b>data science</b>. I use Django with <b>Django-Rest framework</b> to build my backend api's and <b>ReactJS</b> for my front-end. I was fortunate enough to take up an incubation at <a href="https://www.nsrcel.org/">IIM, BANGLORE - NSRCEL</a> through <a href="https://innovate.mygov.in/india-innovation-challenge-design-contest">IICDC 2016</a>., and now that I have discovered the field of machine learning and AI, I cannot wait to put my talents at work in developing new and crays ideas to work.</p>
+My journey began as a Full Stack & ML dev intern at <a href="https://www.pikkal.com/">Pikkal & Co</a> and currently I'm a Full Stack Developer at (Rudram Phronesis)[https://infrazanalytics.com/]. I received my bachelors's degree (🎓) from <a href="https://smvec.ac.in/">SMVEC</a>. I am obsessed with <b>web development</b> and <b>data science</b>. I use Django with <b>Django-Rest framework</b> to build my backend api's and <b>ReactJS</b> for my front-end. I was fortunate enough to take up an incubation at <a href="https://www.nsrcel.org/">IIM, BANGLORE - NSRCEL</a> through <a href="https://innovate.mygov.in/india-innovation-challenge-design-contest">IICDC 2016</a>., and now that I have discovered the field of machine learning and AI, I cannot wait to put my talents at work in developing new and crays ideas to work.</p>
 
 <hr />
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=racyriaz" alt="racyriaz" /> </p>
