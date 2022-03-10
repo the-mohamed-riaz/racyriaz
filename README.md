@@ -8,9 +8,9 @@ My journey began as an entrepreneur then as a Full Stack & ML intern at <a targe
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=racyriaz" alt="racyriaz" /> </p>
 
 ## 💬&nbsp; **Ask me about**
-  <img alt="Coding gif" style="width:120px;height:auto;" src="./assets/giphy.gif" align="right" />
+  <img alt="Coding gif" style="width:auto;height:156px;" src="./assets/giphy.gif" align="right" />
 
-  - ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp; ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp; ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp; ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+  - ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp; ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp; ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp; ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp; ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
   - ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp; ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
   - ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp; ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
   - Machine Learning, Data Science
