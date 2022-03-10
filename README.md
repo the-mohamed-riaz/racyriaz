@@ -2,13 +2,13 @@
 
 ![](./assets/github%20cover.jpg)
 <p style='text-align:justify; text-justify: inter-word'>
-My journey began as a Full Stack & ML dev intern at <a href="https://www.pikkal.com/">Pikkal & Co</a> and currently I'm a Full Stack Developer at (Rudram Phronesis)[https://infrazanalytics.com/]. I received my bachelors's degree (🎓) from <a href="https://smvec.ac.in/">SMVEC</a>. I am obsessed with <b>web development</b> and <b>data science</b>. I use Django with <b>Django-Rest framework</b> to build my backend api's and <b>ReactJS</b> for my front-end. I was fortunate enough to take up an incubation at <a href="https://www.nsrcel.org/">IIM, BANGLORE - NSRCEL</a> through <a href="https://innovate.mygov.in/india-innovation-challenge-design-contest">IICDC 2016</a>., and now that I have discovered the field of machine learning and AI, I cannot wait to put my talents at work in developing new and crays ideas to work.</p>
+My journey began as an entrepreneur then as a Full Stack & ML intern at <a href="https://www.pikkal.com/">Pikkal & Co</a> and currently I'm a Full Stack Developer at (Rudram Phronesis)[https://infrazanalytics.com/]. And this quest of full stack developement, has not stopped me learning from new technologies be it Machine Learning or be it software developement.
 
 <hr />
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=racyriaz" alt="racyriaz" /> </p>
 
 ## 💬&nbsp; **Ask me about**
-  <img alt="Coding gif" style="width:2rem;" src="./assets/giphy.gif" align="right" />
+  <img alt="Coding gif" style="width:120px;height:auto;" src="./assets/giphy.gif" align="right" />
 
   - ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp; ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp; ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp; ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
   - ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp; ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
@@ -19,7 +19,7 @@ My journey began as a Full Stack & ML dev intern at <a href="https://www.pikkal.
 <hr />
 
 
-## 😎&nbsp; Wana know more ? Download my portfolio [here](./mohamed_riaz_2021.pdf)
+## 😎&nbsp; Wana know more ? Download my portfolio [here](./mohamed_riaz_2022.pdf)
 <hr />
 
 <p align="center">
