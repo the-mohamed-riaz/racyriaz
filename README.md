@@ -2,7 +2,7 @@
 
 ![](./assets/github%20cover.jpg)
 <p style='text-align:justify; text-justify: inter-word'>
-My journey began as an entrepreneur then as a Full Stack & ML intern at <a target='_blank' href="https://www.pikkal.com/">Pikkal & Co</a> and currently I'm a Full Stack Developer at <a href='https://infrazanalytics.com/' target='_blank'>Rudram Phronesis</a>. And this quest of full stack developement, has not stopped me learning from new technologies be it Machine Learning or be it software developement.
+My journey began as an entrepreneur then as a Full Stack & ML intern at <a target='_blank' href="https://www.pikkal.com/">Pikkal & Co</a> and currently I'm a Full Stack Developer at a startup in IIT Madras Research Park. And this quest of full stack developement, has not stopped me learning from new technologies be it Machine Learning or be it software developement.
 
 <hr />
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=racyriaz" alt="racyriaz" /> </p>
